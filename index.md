@@ -15,3 +15,9 @@ This site includes the final analysis of our first idea, regarding whether or no
 from requiring that COMP 110 students attend one office hour appointment per semester. This could help
 students prepare for quizzes, assignments, and the final. We will measure this through oh_effective and qz_effective.
 You can find our analysis and visualizations down below!
+
+## Summary of Our Analysis on Current Office Hour Effectiveness
+
+## Visualizations Through Seaborn
+
+## Final Conclusion of Analysis
