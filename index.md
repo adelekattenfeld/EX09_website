@@ -12,5 +12,6 @@ layout: default
 
 This website is the final presentation site for the EX09 Continuous Analysis Assignment for COMP 110. 
 This site includes the final analysis of our first idea, regarding whether or not students will benefit
-from having readily available annotated lecture notes from COMP 110 due to inability to attend the 8 am lecture.
+from requiring that COMP 110 students attend one office hour appointment per semester. This could help
+students prepare for quizzes, assignments, and the final. We will measure this through oh_effective and qz_effective.
 You can find our analysis and visualizations down below!
